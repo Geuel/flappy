@@ -1,7 +1,7 @@
 {
   "name": "flappy",
   "version": "1.0.0",
-  "description": "Flappy Bird somente com HTML, css e js puro para aprender a manipular a DOM",
+  "description": "Flappy was based on the Flappy Bird's game. It was made exclusively using HTML, CSS and pure JS to learn how to manipulate the DOM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Geuel/flappy.git"
   },
   "author": "Geuel Chaves Paiva",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Geuel/flappy/issues"
   },

@@ -1,1 +1,3 @@
-Flappy Bird somente com HTML, css e js puro para aprender a manipular a DOM Realizado através da COD3R Cursos Online pelo Leonardo
+# Flappy 
+
+Flappy was based on the Flappy Bird's game. It was made exclusively using HTML, CSS and pure JS to learn how to manipulate the DOM. Realizado através da COD3R Cursos Online pelo Leonardo
